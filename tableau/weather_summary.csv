@@ -1,0 +1,7 @@
+Weather,Deliveries,Avg_Delivery_Min,Median_Delivery_Min,On_Time_Rate,Avg_Rating,Avg_Distance_KM
+Fog,401,30.02,29.0,55.86,4.63,10.11
+Cloudy,408,28.66,28.0,58.09,4.64,9.52
+Windy,393,26.91,26.0,70.48,4.61,10.07
+Sandstorms,410,25.96,26.0,73.17,4.62,9.74
+Stormy,410,25.46,25.0,76.34,4.62,9.7
+Sunny,389,21.92,21.0,87.66,4.65,9.96

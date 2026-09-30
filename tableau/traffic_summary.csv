@@ -1,0 +1,5 @@
+Traffic,Deliveries,Avg_Delivery_Min,Median_Delivery_Min,On_Time_Rate,Avg_Rating,Avg_Distance_KM
+Jam,787,31.08,30.0,51.84,4.6,12.04
+High,249,28.11,28.0,63.05,4.62,4.55
+Medium,568,26.45,26.0,67.08,4.65,10.96
+Low,807,21.6,21.0,92.44,4.65,8.53

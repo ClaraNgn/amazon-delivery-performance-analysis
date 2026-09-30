@@ -1,0 +1,5 @@
+Vehicle_Type,Deliveries,Avg_Delivery_Min,Median_Delivery_Min,On_Time_Rate,Avg_Rating,Avg_Distance_KM
+Bicycle,812,24.89,24.0,74.26,4.65,9.89
+Electric Scooter,5,23.0,21.0,80.0,4.7,12.62
+Motorcycle,182,23.98,23.0,76.92,4.63,9.92
+Scooter,1442,27.72,26.0,67.06,4.62,9.82

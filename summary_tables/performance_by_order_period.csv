@@ -1,0 +1,6 @@
+Order_Period,Deliveries,Avg_Delivery_Min,Median_Delivery_Min,On_Time_Rate,Avg_Rating,Avg_Distance_KM
+Afternoon,236,26.83,27.0,69.92,4.63,5.9
+Evening,971,29.0,28.0,58.91,4.61,11.92
+Late Night,753,25.62,24.0,74.5,4.63,11.98
+Morning,392,22.03,21.0,89.54,4.66,2.79
+Unknown,89,25.36,25.0,73.03,4.7,10.46

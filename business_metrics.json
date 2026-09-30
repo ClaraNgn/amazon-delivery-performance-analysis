@@ -1,0 +1,9 @@
+{
+  "deliveries": 2441,
+  "average_delivery_minutes": 26.49,
+  "median_delivery_minutes": 26.0,
+  "on_time_rate_30m_pct": 70.22,
+  "average_rating": 4.63,
+  "average_distance_km": 9.86,
+  "average_pickup_delay_min": 9.98
+}

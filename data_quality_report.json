@@ -1,0 +1,18 @@
+{
+  "rows_raw": 2442,
+  "duplicate_ids_removed": 1,
+  "rows_cleaned": 2441,
+  "invalid_age_values_replaced": 98,
+  "invalid_rating_values_replaced": 99,
+  "age_imputation_median": 30.0,
+  "rating_imputation_median": 4.7,
+  "multiple_delivery_imputation_mode": 1.0,
+  "rows_with_valid_coordinates": 2265,
+  "rows_with_valid_pickup_delay": 2352,
+  "remaining_missing_values": {
+    "Time_Orderd": 89,
+    "Order_Hour": 89,
+    "Pickup_Delay_Min": 89,
+    "Distance_KM": 176
+  }
+}
