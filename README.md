@@ -2,6 +2,8 @@
 
 An end-to-end business analytics project that cleans a Kaggle delivery dataset, validates data quality, develops operational KPIs, and prepares an interactive Tableau Public dashboard.
 
+**Live dashboard:** [View Amazon Delivery Performance on Tableau Public](https://public.tableau.com/app/profile/phan.bao.ngoc.nguyen/viz/AmazonDeliveryPerformance_17908009565470/AmazonDeliveryPerformance)
+
 ![Dashboard preview](figures/dashboard_preview.png)
 
 ## Business question
@@ -48,6 +50,7 @@ See [`data_quality_report.json`](data_quality_report.json) for the complete clea
 ```text
 .
 ├── amazon_delivery_analysis.py       # Reproducible cleaning and analysis pipeline
+├── Amazon Delivery Performance.twbx  # Packaged Tableau workbook
 ├── data/processed/                   # Cleaned analysis dataset
 ├── tableau/                          # Tableau-ready dataset
 ├── summary_tables/                   # Aggregated KPI tables
@@ -84,4 +87,3 @@ Python, pandas, NumPy, Matplotlib, Seaborn, and Tableau Public.
 
 **Phan Bao Ngoc (Clara) Nguyen**  
 Business Analytics, Honors College — Kent State University
-
